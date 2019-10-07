@@ -1,15 +1,16 @@
 # Task_Management
 This project is for python course in Kateb university in Kabul
 
-Steps of installation
+Step of installation : 
+
 1- clone the project 
-put this code on you terminal and hit enter:
+In terminal :
 ```
 git clone https://github.com/mohammadahmadi1395/Task_Management.git
 ```
 
 2- install requirements 
-on Task_Management folder write this line on terminal
+Terminal
 ```
 pip3 install virtualenv
 virtualenv .venv
